@@ -1,11 +1,9 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/ID_photo2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I graduated as a Master of Urban Spatial Analytics at the University of Pennsylvania. I also earned an MLA degree from Louisiana State University and spent several years working in NYC Boston as a landscape architect. 
   <br><br>
-  Second description 
+  With a multidisciplinary background, I am interested to explore data-driven approach to find solutions of Climate Change and improve urban resilience. I am dedicated to my career of building an efficient, resilient, and more sustainable smart city.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/hui-tian-rla-31862752/">View My LinkedIn Profile</a> 
+ 
